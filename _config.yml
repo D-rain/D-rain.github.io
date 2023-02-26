@@ -1,4 +1,4 @@
-# Site settings
+# Site settingssettings
 title: Will rain's Blog
 SEOTitle: rain的博客
 header-img: img/bk.jpg
@@ -24,6 +24,8 @@ github_username:    D-rain
 # facebook_username:  username
 # jianshu_username:   jianshu_id
 twitter_username:    rain
+csdn_username: listen020
+bilibili_username: 1312879549
 
 
 # Build settings
