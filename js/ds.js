@@ -248,7 +248,7 @@
                 },
                 "repository": {
                     "type": "git",
-                    "url": "https://github.com/flyingwzb/tctip.git"
+                    "url": "https://github.com/d-rain/tctip.git"
                 },
                 "keywords": [
                     "tctip",
@@ -260,9 +260,9 @@
                 "author": "wzbcode <wzbcode@163.com>",
                 "license": "MIT",
                 "bugs": {
-                    "url": "https://github.com/flyingwzb/tctip/issues"
+                    "url": "https://github.com/d-rain/tctip/issues"
                 },
-                "homepage": "https://github.com/flyingwzb/tctip",
+                "homepage": "https://github.com/d-rain/tctip",
                 "dependencies": {
                     "qrcode-generator": "^1.1.0"
                 }
@@ -2047,7 +2047,7 @@
                     key: 'genDom',
                     value: function genDom() {
                         this.createDom(_defineProperty({
-                            href: 'https://flyingwzb.github.io/',
+                            href: 'https://d-rain.github.io/',
                             target: '_blank'
                         }, _dom.textKey, '了解更多⚽🏀💻'), 'a');
                     }
